@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Blog</title>
+ <link href="http://blog.mdevk.com/atom.xml" rel="self"/>
+ <link href="http://blog.mdevk.com/"/>
+ <updated>2015-07-26T20:18:48-07:00</updated>
+ <id>http://blog.mdevk.com</id>
+ <author>
+   <name>Mark Otto</name>
+   <email>markdotto@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Setting this blog up</title>
+   <link href="http://blog.mdevk.com/2015/07/26/first/"/>
+   <updated>2015-07-26T00:00:00-07:00</updated>
+   <id>http://blog.mdevk.com/2015/07/26/first</id>
+   <content type="html">&lt;p&gt;Just trying out setting up a blog using &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt; and &lt;a href=&quot;http://getpoole.com/&quot;&gt;Poole&lt;/a&gt;&lt;br /&gt;
+I’m trying out the &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;Lanyon&lt;/a&gt; theme.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
